@@ -1,7 +1,7 @@
 # Real-time Auto-completion Widget
 “Real-Time Auto-Completion Widget” is designed for Debian based OS like Ubuntu. It has two new features in **real-time** alongside bash terminal:
 - **Displaying possible matches**
-![Screenshot 1](https://github.com/Techno-Crown-Solutions/Real-time-Auto-completion-Widget/blob/master/screenshots/Auto-completion-widget-apt-screenshot-1.jpg "Screenshot 1")
+![Screenshot 1](https://github.com/Techno-Crown-Solutions/Real-time-Auto-completion-Widget/blob/master/screenshots/Auto-completion-widget-apt-screenshot-1.jpg "AC widget displaying possible matches for apt-")
 
 - **Man Page**
 ![Screenshot 2](https://github.com/Techno-Crown-Solutions/Real-time-Auto-completion-Widget/blob/master/screenshots/Auto-completion-widget-apt-get-screenshot-2.jpg "AC widget displaying man page")
