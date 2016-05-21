@@ -21,7 +21,7 @@ sudo apt-get install libgtk-3-dev
 ```
 
 
-### Installation:
+### Installation
 -	Download  [bash-4.3.30.tar.gz](https://ftp.gnu.org/gnu/bash/bash-4.3.30.tar.gz) and place in home directory.
 -	Unzip the *bash-4.3.30.tar.gz* by command `tar –zxvf  bash-4.3.30.tar.gz`
 -	Change directory to bash-4.3.30/ by `cd bash-4.3.30/`
@@ -49,12 +49,12 @@ exec bash
 
 
 
-## Running the widget:
+## Running the widget
 Open a new terminal and run the command & minimize the terminal.
 ```sh
 python acwidget.py
 ```
-Then type in the other terminal to get the possibilities and man page.
+Open a new Terminal and then start working. As you type, the possible matches and man page will be dispayed alongside in the Auto-completion widget.
 
 
 
