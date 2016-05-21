@@ -50,7 +50,7 @@ exec bash
 
 
 ## Running the widget:
-Open a new terminal and run the command 
+Open a new terminal and run the command & minimize the terminal.
 ```sh
 python acwidget.py
 ```
